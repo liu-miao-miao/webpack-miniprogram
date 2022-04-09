@@ -4620,10 +4620,10 @@ mixin-deep@^1.2.0:
   dependencies:
     minimist "0.0.8"
 
-moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.npm.taobao.org/moment/download/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha1-DQVdU/UFKqZTyfbraLtdEr9cK1s=
+moment@^2.29.2:
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
+  integrity sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
@@ -5780,13 +5780,6 @@ run-script-os@^1.0.5:
   version "1.0.7"
   resolved "https://registry.npm.taobao.org/run-script-os/download/run-script-os-1.0.7.tgz#7cd51144a19c6ca364fe668433f55b47babf4749"
   integrity sha1-fNURRKGcbKNk/maEM/VbR7q/R0k=
-
-rxjs@^6.5.2:
-  version "6.5.3"
-  resolved "https://registry.npm.taobao.org/rxjs/download/rxjs-6.5.3.tgz?cache=0&sync_timestamp=1568815796923&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frxjs%2Fdownload%2Frxjs-6.5.3.tgz#510e26317f4db91a7eb1de77d9dd9ba0a4899a3a"
-  integrity sha1-UQ4mMX9NuRp+sd532d2boKSJmjo=
-  dependencies:
-    tslib "^1.9.0"
 
 rxjs@^6.5.3:
   version "6.5.4"
