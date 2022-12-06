@@ -2265,9 +2265,9 @@ decamelize@^1.1.1, decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -5780,13 +5780,6 @@ run-script-os@^1.0.5:
   version "1.0.7"
   resolved "https://registry.npm.taobao.org/run-script-os/download/run-script-os-1.0.7.tgz#7cd51144a19c6ca364fe668433f55b47babf4749"
   integrity sha1-fNURRKGcbKNk/maEM/VbR7q/R0k=
-
-rxjs@^6.5.2:
-  version "6.5.3"
-  resolved "https://registry.npm.taobao.org/rxjs/download/rxjs-6.5.3.tgz?cache=0&sync_timestamp=1568815796923&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frxjs%2Fdownload%2Frxjs-6.5.3.tgz#510e26317f4db91a7eb1de77d9dd9ba0a4899a3a"
-  integrity sha1-UQ4mMX9NuRp+sd532d2boKSJmjo=
-  dependencies:
-    tslib "^1.9.0"
 
 rxjs@^6.5.3:
   version "6.5.4"
